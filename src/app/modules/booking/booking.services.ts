@@ -1,27 +1,34 @@
-import { Schema, model } from "mongoose";
-import { BookingModal, IBooking } from "./booking.interface";
+import { StatusCodes } from "http-status-codes";
+import { IBooking } from "./booking.interface";
+import { Booking } from "./booking.model";
+import API_Error from "../../../error/apiError";
 
-// team Schema
-export const BookingSchema = new Schema<IBooking, BookingModal>(
-  {
-    user: {
-      type: Schema.Types.ObjectId,
-      ref: "User",
-      required: true,
-    },
-    product: {
-      type: Schema.Types.ObjectId,
-      ref: "Mobile",
-      required: true,
-    },
-  },
-  {
-    timestamps: true,
-    toJSON: {
-      virtuals: true,
-    },
+const createBookingFromDB = async (data: IBooking): Promise<IBooking> => {
+  const existBooking = await Booking.findOne({
+    product: data.product,
+    user: data.user,
+  });
+  if (existBooking) {
+    throw new API_Error(StatusCodes.BAD_REQUEST, "Already product added");
   }
-);
 
-// Team Model
-export const Booking = model<IBooking, BookingModal>("Booking", BookingSchema);
+  const booking = await Booking.create(data);
+  return booking;
+};
+
+const myBookingFromDB = async (userId: string): Promise<IBooking[]> => {
+  const myBooking = await Booking.find({ userId }).populate("product");
+  return myBooking;
+};
+
+const deleteBookingFromDB = async (id: string): Promise<IBooking | null> => {
+  console.log(id);
+  const booking = await Booking.findOneAndDelete({ _id: id });
+  return booking;
+};
+
+export const BookingService = {
+  createBookingFromDB,
+  myBookingFromDB,
+  deleteBookingFromDB,
+};
