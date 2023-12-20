@@ -1,6 +1,7 @@
 import express from "express";
 import { AuthRouter } from "../modules/auth/auth.route";
 import { MobileRoutes } from "../modules/mobile/mobile.route";
+import { BookingRouters } from "../modules/booking/booking.route";
 
 const router = express.Router();
 
@@ -8,6 +9,7 @@ const router = express.Router();
 const AllModuleRoutes = [
   { path: "/auth", router: AuthRouter },
   { path: "/mobile", router: MobileRoutes },
+  { path: "/book", router: BookingRouters },
 ];
 
 AllModuleRoutes.forEach((route) => router.use(route.path, route.router));

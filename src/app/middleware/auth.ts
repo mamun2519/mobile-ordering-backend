@@ -7,25 +7,26 @@ import { jwtHelpers } from "../../utils/jwtToken";
 import { StatusCodes } from "http-status-codes";
 import API_Error from "../../error/apiError";
 
-const auth = () => async (req: Request, res: Response, next: NextFunction) => {
-  try {
-    const token = req.headers.authorization;
-    if (!token) {
-      throw new API_Error(StatusCodes.UNAUTHORIZED, "You are not authorized");
+const AuthGard =
+  () => async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const token = req.headers.authorization;
+      if (!token) {
+        throw new API_Error(StatusCodes.UNAUTHORIZED, "You are not authorized");
+      }
+      let verifiedUser = null;
+
+      verifiedUser = jwtHelpers.verifyToken(
+        token,
+        config.jwt.secret_token as Secret
+      );
+      req.user = verifiedUser;
+      //check role
+
+      next();
+    } catch (error) {
+      next(error);
     }
-    let verifiedUser = null;
+  };
 
-    verifiedUser = jwtHelpers.verifyToken(
-      token,
-      config.jwt.secret_token as Secret
-    );
-    req.user = verifiedUser;
-    //check role
-
-    next();
-  } catch (error) {
-    next(error);
-  }
-};
-
-export default auth;
+export default AuthGard;
