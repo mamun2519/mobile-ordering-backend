@@ -95,11 +95,11 @@ export const MobileSchema = new Schema<IMobile, MobileModel>(
       required: [true, "batteryCapacity Is Required"],
     },
     ram: {
-      type: Number,
+      type: String,
       required: [true, "ram Is Required"],
     },
     rom: {
-      type: Number,
+      type: String,
       required: [true, "rom Is Required"],
     },
     processor: {
@@ -130,4 +130,4 @@ export const MobileSchema = new Schema<IMobile, MobileModel>(
 );
 
 // User Model
-export const Auth = model<IMobile, MobileModel>("Mobile", MobileSchema);
+export const Mobile = model<IMobile, MobileModel>("Mobile", MobileSchema);

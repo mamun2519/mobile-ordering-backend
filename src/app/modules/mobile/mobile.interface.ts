@@ -29,8 +29,8 @@ export type IMobile = {
     videoRecording: string;
   };
   batteryCapacity: string;
-  ram: number;
-  rom: number;
+  ram: string;
+  rom: string;
   processor: string;
   brand: string;
   security: {
