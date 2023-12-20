@@ -48,7 +48,7 @@ export const MobileSchema = new Schema<IMobile, MobileModel>(
         required: [true, "radio Is Required"],
       },
     },
-    body: {
+    display: {
       size: {
         type: String,
         required: [true, "size Is Required"],
@@ -90,6 +90,10 @@ export const MobileSchema = new Schema<IMobile, MobileModel>(
         required: [true, "videoRecording Is Required"],
       },
     },
+    body: {
+      type: String,
+      required: [true, "body Is Required"],
+    },
     batteryCapacity: {
       type: String,
       required: [true, "batteryCapacity Is Required"],
@@ -109,16 +113,6 @@ export const MobileSchema = new Schema<IMobile, MobileModel>(
     brand: {
       type: String,
       required: [true, "brand Is Required"],
-    },
-    security: {
-      fingerprint: {
-        type: String,
-        required: [true, "fingerprint Is Required"],
-      },
-      FaceUnlock: {
-        type: String,
-        required: [true, "FaceUnlock Is Required"],
-      },
     },
   },
   {

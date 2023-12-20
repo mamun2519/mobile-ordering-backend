@@ -10,7 +10,7 @@ const app: Application = express();
 app.use([cors(), express.json(), express.urlencoded({ extended: true })]);
 
 // Application Routes
-app.use("/api", RootRoutes);
+app.use("/api/v1", RootRoutes);
 //Application Root Route
 app.get("/", (req: Request, res: Response) => {
   res.status(200).send({ success: true, message: "Server Is Running" });

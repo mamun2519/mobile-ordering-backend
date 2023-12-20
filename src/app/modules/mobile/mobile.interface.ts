@@ -13,7 +13,8 @@ export type IMobile = {
     GPS: string;
     radio: string;
   };
-  body: {
+  body: string;
+  display: {
     size: string;
     resolution: string;
     technology: string;
@@ -33,10 +34,6 @@ export type IMobile = {
   rom: string;
   processor: string;
   brand: string;
-  security: {
-    fingerprint: string;
-    FaceUnlock: string;
-  };
 };
 export type MobileModel = Model<IMobile, Record<string, unknown>>;
 

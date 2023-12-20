@@ -6,6 +6,7 @@ import { JwtPayload } from "jsonwebtoken";
 import { StatusCodes } from "http-status-codes";
 
 const createBooking = catchAsyncFn(async (req: Request, res: Response) => {
+  console.log(req.body);
   const result = await BookingService.createBookingFromDB(req.body);
   sendApiResponse(res, {
     statusCode: StatusCodes.OK,

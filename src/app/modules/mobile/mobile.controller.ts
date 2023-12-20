@@ -8,6 +8,7 @@ import { MobileFilterAbleFiled } from "./mobile.constants";
 import { paginationSpeared } from "../../../constants/pagination";
 
 const createMobile = catchAsyncFn(async (req: Request, res: Response) => {
+  console.log(req.body);
   const result = await MobileService.createMobileFromDB(req.body);
   sendApiResponse(res, {
     statusCode: StatusCodes.OK,
