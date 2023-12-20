@@ -1,0 +1,49 @@
+import { Model } from "mongoose";
+// user interface
+export type IMobile = {
+  name: string;
+  release: string;
+  color: string;
+  price: string;
+  url: string;
+  connectivity: {
+    network: string;
+    SIM: string;
+    bluetooth: string;
+    GPS: string;
+    radio: string;
+  };
+  body: {
+    size: string;
+    resolution: string;
+    technology: string;
+  };
+  backCamera: {
+    resolution: string;
+    features: string;
+    videoRecording: string;
+  };
+  frontCamera: {
+    resolution: string;
+    features: string;
+    videoRecording: string;
+  };
+  battery: {
+    capacity: string;
+    fastCharging: string;
+  };
+  ram: string;
+  rom: string;
+  processor: string;
+  brand: string;
+  security: {
+    fingerprint: string;
+    FaceUnlock: string;
+  };
+};
+export type MobileModel = Model<IMobile, Record<string, unknown>>;
+
+export type IPasswordChange = {
+  email: string;
+  newPassword: string;
+};
