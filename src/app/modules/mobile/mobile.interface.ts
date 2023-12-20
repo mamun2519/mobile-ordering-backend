@@ -28,12 +28,9 @@ export type IMobile = {
     features: string;
     videoRecording: string;
   };
-  battery: {
-    capacity: string;
-    fastCharging: string;
-  };
-  ram: string;
-  rom: string;
+  batteryCapacity: string;
+  ram: number;
+  rom: number;
   processor: string;
   brand: string;
   security: {
@@ -43,7 +40,12 @@ export type IMobile = {
 };
 export type MobileModel = Model<IMobile, Record<string, unknown>>;
 
-export type IPasswordChange = {
-  email: string;
-  newPassword: string;
+export type IMobileFilters = {
+  searchTerm: string;
+  price: string;
+  ram: string;
+  rom: string;
+  brand: string;
+  batteryCapacity: string;
+  color: string;
 };
