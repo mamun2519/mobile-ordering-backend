@@ -1,220 +1,81 @@
 [
   {
-    "name": "Xiaomi Poco X3",
-    "release": "September 22, 2020",
-    "color": "Cobalt Blue",
-    "price": "16,999",
-    "url": "https://www.mobiledokan.com/wp-content/uploads/2020/09/Xiaomi-Poco-X3-image.jpg.webp",
+    "name": "Xiaomi Mi 11",
+    "release": "December 28, 2020",
+    "color": "Black",
+    "price": "44,999",
+    "url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-11-pro-5g-1.jpg",
     "connectivity": {
-      "network": "2G, 3G, 4G",
-      "SIM": "Hybrid Dual SIM",
+      "network": "2G, 3G, 4G, 5G",
+      "SIM": "Dual Nano SIM",
+      "bluetooth": "v5.2, A2DP, LE, aptX HD, aptX Adaptive",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS, NavIC",
+      "radio": "No"
+    },
+    "body": "Gorilla Glass Victus front and back, aluminum frame",
+    "display": {
+      "size": "6.81 inches",
+      "resolution": "Quad HD+ 1440 x 3200 pixels (515 ppi)",
+      "technology": "AMOLED, 120Hz, HDR10+, Dolby Vision"
+    },
+    "backCamera": {
+      "resolution": "Triple 108+13+5 Megapixel",
+      "features": "PDAF, LED flash, HDR, 123º ultrawide, macro, depth & more",
+      "videoRecording": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps"
+    },
+    "frontCamera": {
+      "resolution": "20 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30/60fps, 720p@120fps"
+    },
+    "batteryCapacity": "4600 mAh ",
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "processor": "Octa core, up to 2.84 GHz",
+    "brand": "Xiaomi"
+  },
+
+  {
+    "name": "Realme Narzo 30 Pro 5G",
+    "release": "February 24, 2021",
+    "color": "Black",
+    "price": "Starting at $249",
+    "url": "https://www.91-img.com/pictures/141719-v2-realme-narzo-30-pro-mobile-phone-large-2.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
       "bluetooth": "v5.1, A2DP, LE",
       "GPS": "A-GPS, GLONASS, BDS",
       "radio": "FM, recording"
     },
-    "body": "Corning Gorilla Glass 5 front, plastic frame, plastic back",
+    "body": "Plastic frame, Plastic back",
     "display": {
-      "size": "6.67 inches",
-      "resolution": "Full HD+ 1080 x 2400 pixels (395 ppi)",
-      "technology": "IPS LCD, 120Hz, HDR10"
+      "size": "6.5 inches",
+      "resolution": "IPS LCD, 1080 x 2400 pixels (405 ppi)",
+      "technology": "90Hz refresh rate, 580 nits (HBM), 90Hz refresh rate"
     },
     "backCamera": {
-      "resolution": "Quad 64+13+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 119º ultrawide, macro, depth & more",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+      "resolution": "Triple 48+8+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 48 MP wide, 8 MP ultrawide, 2 MP macro",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
     },
     "frontCamera": {
-      "resolution": "20 Megapixel",
+      "resolution": "16 Megapixel",
       "features": "HDR",
       "videoRecording": "1080p@30fps"
     },
-    "batteryCapacity": "Lithium-polymer 6000 mAh (non-removable)",
-    "ram": "6 GB",
-    "rom": "64 GB (UFS 2.1)",
-    "processor": "Octa core, up to 2.3 GHz",
-    "brand": "Xiaomi"
-  },
-  {
-    "name": "Xiaomi Mi 10",
-    "release": "February 13, 2020",
-    "color": "Coral Green",
-    "price": "49,999",
-    "url": "https://www.mobiledokan.com/wp-content/uploads/2020/02/Xiaomi-Mi-10-image.jpg.webp",
-    "connectivity": {
-      "network": "2G, 3G, 4G, 5G",
-      "SIM": "Dual Nano SIM",
-      "bluetooth": "v5.1, A2DP, LE, aptX HD, aptX Adaptive",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
-      "radio": "No"
-    },
-    "body": "Corning Gorilla Glass 5 front and back, aluminum frame",
-    "display": {
-      "size": "6.67 inches",
-      "resolution": "Full HD+ 1080 x 2340 pixels (386 ppi)",
-      "technology": "Super AMOLED, 90Hz, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Quad 108+13+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 123º ultrawide, macro, depth & more",
-      "videoRecording": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps"
-    },
-    "frontCamera": {
-      "resolution": "20 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps, 720p@120fps"
-    },
-    "batteryCapacity": "Lithium-polymer 4780 mAh (non-removable)",
-    "ram": "8 GB",
-    "rom": "128 GB (UFS 3.0)",
-    "processor": "Octa core, up to 2.84 GHz",
-    "brand": "Xiaomi"
-  },
-  {
-    "name": "Xiaomi Redmi 9",
-    "release": "June 10, 2020",
-    "color": "Carbon Grey",
-    "price": "9,999",
-    "url": "https://www.mobiledokan.com/wp-content/uploads/2020/06/Xiaomi-Redmi-9-image.jpg.webp",
-    "connectivity": {
-      "network": "2G, 3G, 4G",
-      "SIM": "Dual Nano SIM",
-      "bluetooth": "v5.0, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS",
-      "radio": "FM, recording"
-    },
-    "body": "Corning Gorilla Glass 3 front, plastic frame, plastic back",
-    "display": {
-      "size": "6.53 inches",
-      "resolution": "Full HD+ 1080 x 2340 pixels (395 ppi)",
-      "technology": "IPS LCD"
-    },
-    "backCamera": {
-      "resolution": "Quad 13+8+5+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 118º ultrawide, macro, depth & more",
-      "videoRecording": "1080p@30fps"
-    },
-    "frontCamera": {
-      "resolution": "8 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Lithium-polymer 5020 mAh (non-removable)",
-    "ram": "3 GB",
-    "rom": "32 GB (eMMC 5.1)",
-    "processor": "Octa core, up to 2.0 GHz",
-    "brand": "Xiaomi"
-  },
-  {
-    "name": "iPhone 13 Pro",
-    "release": "September 14, 2021",
-    "color": "Graphite",
-    "price": "Starting at $999",
-    "url": "https://www.apple.com/iphone-13-pro/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM and eSIM)",
-      "bluetooth": "v5.0, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
-      "radio": "No"
-    },
-    "body": "Ceramic Shield front, Textured matte glass back, Stainless steel frame",
-    "display": {
-      "size": "6.1 inches",
-      "resolution": "Super Retina XDR, 2532 x 1170 pixels (460 ppi)",
-      "technology": "ProMotion technology, HDR10, Dolby Vision"
-    },
-    "backCamera": {
-      "resolution": "Triple 12+12+12 Megapixel",
-      "features": "Night mode, Deep Fusion, Smart HDR 4, 4K Dolby Vision HDR recording",
-      "videoRecording": "ProRAW, ProRes video recording"
-    },
-    "frontCamera": {
-      "resolution": "12 Megapixel",
-      "features": "Night mode, Deep Fusion, Smart HDR 4, 4K Dolby Vision HDR recording",
-      "videoRecording": "ProRAW, ProRes video recording"
-    },
-    "batteryCapacity": "Li-Ion 3095 mAh (non-removable)",
-    "ram": "6 GB",
-    "rom": "128 / 256 / 512 GB",
-    "processor": "A15 Bionic chip with Neural Engine",
-    "brand": "Apple"
-  },
-  {
-    "name": "iPad Pro (5th generation)",
-    "release": "May 21, 2021",
-    "color": "Space Gray",
-    "price": "Starting at $799",
-    "url": "https://www.apple.com/ipad-pro/",
-    "connectivity": {
-      "network": "Wi-Fi or 5G",
-      "SIM": "Nano-SIM, eSIM",
-      "bluetooth": "v5.0",
-      "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
-      "radio": "No"
-    },
-    "body": "Aluminum frame, Glass front, Glass back",
-    "display": {
-      "size": "11 inches",
-      "resolution": "Liquid Retina XDR, 2388 x 1668 pixels (265 ppi)",
-      "technology": "ProMotion technology, HDR10, Dolby Vision"
-    },
-    "backCamera": {
-      "resolution": "Dual 12+10 Megapixel",
-      "features": "LiDAR scanner, Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
-      "videoRecording": "ProRes video recording"
-    },
-    "frontCamera": {
-      "resolution": "12 Megapixel",
-      "features": "LiDAR scanner, Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
-      "videoRecording": "ProRes video recording"
-    },
-    "batteryCapacity": "Li-Po 7538 mAh (non-removable)",
-    "ram": "8 GB",
-    "rom": "128 / 256 / 512 GB / 1 TB / 2 TB",
-    "processor": "Apple M1 chip with Neural Engine",
-    "brand": "Apple"
-  },
-  {
-    "name": "MacBook Air (M2, 2022)",
-    "release": "October 18, 2022",
-    "color": "Silver",
-    "price": "Starting at $999",
-    "url": "https://www.apple.com/macbook-air/",
-    "connectivity": {
-      "network": "Wi-Fi 6, Bluetooth 5.0",
-      "SIM": "No",
-      "bluetooth": "v5.0",
-      "GPS": "No",
-      "radio": "No"
-    },
-    "body": "Aluminum unibody, Retina display, Magic Keyboard",
-    "display": {
-      "size": "13.3 inches",
-      "resolution": "Retina, 2560 x 1600 pixels (227 ppi)",
-      "technology": "True Tone, P3 wide color gamut"
-    },
-    "backCamera": {
-      "resolution": "No",
-      "features": "No",
-      "videoRecording": "No"
-    },
-    "frontCamera": {
-      "resolution": "720p HD",
-      "features": "Three-microphone array, FaceTime HD camera",
-      "videoRecording": "1080p@60fps"
-    },
-    "batteryCapacity": "Li-Po 49.9 Wh (non-removable)",
-    "ram": "8 / 16 GB",
-    "rom": "256 / 512 GB / 1 TB / 2 TB / 4 TB",
-    "processor": "Apple M2 chip",
-    "brand": "Apple"
+    "batteryCapacity": "5000 mAh",
+    "ram": " 8 GB",
+    "rom": " 128 GB",
+    "processor": "MediaTek Dimensity 800U",
+    "brand": "Realme"
   },
   {
     "name": "Apple Watch Series 7",
     "release": "September 14, 2021",
-    "color": "Starlight",
+    "color": "White",
     "price": "Starting at $399",
-    "url": "https://www.apple.com/apple-watch-series-7/",
+    "url": "https://www.softbank.jp/en/mobile/set/data/apple-watch/apple-watch-series7/img/s/img-m-sec-item-01.jpg",
     "connectivity": {
       "network": "Wi-Fi or Cellular",
       "SIM": "eSIM",
@@ -238,11 +99,400 @@
       "features": "No",
       "videoRecording": "No"
     },
-    "batteryCapacity": "Built-in rechargeable lithium-ion battery",
-    "ram": "No",
+    "batteryCapacity": "3600 mAh",
+    "ram": "16 GB",
     "rom": "32 GB",
     "processor": "Apple S7 chip with 64-bit dual-core processor",
     "brand": "Apple"
+  },
+  {
+    "name": "Oppo A74 5G",
+    "release": "April 2021",
+    "color": "Silver",
+    "price": "Starting at $299",
+    "url": "https://image.oppo.com/content/dam/oppo/product-asset-library/a/a74/a74-5g-overview-v2/v1/assets/kv-1920.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.1, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "No"
+    },
+    "body": "Glass front (Corning Gorilla Glass 3), Plastic back, Plastic frame",
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "IPS LCD, 1080 x 2400 pixels (405 ppi)",
+      "technology": "90Hz refresh rate"
+    },
+    "backCamera": {
+      "resolution": "Triple 48+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 48 MP wide, 2 MP macro, 2 MP depth",
+      "videoRecording": "1080p@30/60/120fps"
+    },
+    "frontCamera": {
+      "resolution": "8 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "6 GB",
+    "rom": "128 GB",
+    "processor": "Qualcomm Snapdragon 480",
+    "brand": "Oppo"
+  },
+  {
+    "name": "Oppo F19 Pro+ 5G",
+    "release": "March 8, 2021",
+    "color": "Midnight Gray",
+    "price": "Starting at $449",
+    "url": "https://www.shopz.com.bd/wp-content/uploads/2022/02/OPPO-F19-Pro-8GB-128GB.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.1, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "No"
+    },
+    "body": "Glass front (Corning Gorilla Glass 5), Plastic back, Plastic frame",
+    "display": {
+      "size": "6.43 inches",
+      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
+      "technology": "60Hz refresh rate"
+    },
+    "backCamera": {
+      "resolution": "Quad 48+8+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 48 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/120fps"
+    },
+    "frontCamera": {
+      "resolution": "16 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "processor": "MediaTek Dimensity 800U",
+    "brand": "Oppo"
+  },
+  {
+    "name": "Xiaomi Mi 10",
+    "release": "February 13, 2020",
+    "color": "Midnight Gray",
+    "price": "49,999",
+    "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/xiaomi_mi_10-1.jpg",
+    "connectivity": {
+      "network": "2G, 3G, 4G, 5G",
+      "SIM": "Dual Nano SIM",
+      "bluetooth": "v5.1, A2DP, LE, aptX HD, aptX Adaptive",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+      "radio": "No"
+    },
+    "body": "Corning Gorilla Glass 5 front and back, aluminum frame",
+    "display": {
+      "size": "6.67 inches",
+      "resolution": "Full HD+ 1080 x 2340 pixels (386 ppi)",
+      "technology": "Super AMOLED, 90Hz, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Quad 108+13+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 123º ultrawide, macro, depth & more",
+      "videoRecording": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps"
+    },
+    "frontCamera": {
+      "resolution": "20 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps, 720p@120fps"
+    },
+    "batteryCapacity": "3600 mAh",
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "processor": "Octa core, up to 2.84 GHz",
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "Xiaomi Poco X3",
+    "release": "September 22, 2020",
+    "color": "Midnight Gray",
+    "price": "16,999",
+    "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png",
+    "connectivity": {
+      "network": "2G, 3G, 4G",
+      "SIM": "Hybrid Dual SIM",
+      "bluetooth": "v5.1, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS",
+      "radio": "FM, recording"
+    },
+    "body": "Corning Gorilla Glass 5 front, plastic frame, plastic back",
+    "display": {
+      "size": "6.67 inches",
+      "resolution": "Full HD+ 1080 x 2400 pixels (395 ppi)",
+      "technology": "IPS LCD, 120Hz, HDR10"
+    },
+    "backCamera": {
+      "resolution": "Quad 64+13+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 119º ultrawide, macro, depth & more",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+    },
+    "frontCamera": {
+      "resolution": "20 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "6000 mAh",
+    "ram": "6 GB",
+    "rom": "64 GB",
+    "processor": "Octa core, up to 2.3 GHz",
+    "brand": "Xiaomi"
+  },
+
+  {
+    "name": "iPad Pro (5th generation)",
+    "release": "May 21, 2021",
+    "color": "Midnight Gray",
+    "price": "Starting at $799",
+    "url": "https://cdn.alloallo.media/catalog/product/apple/ipad/ipad-pro-11-in-1st-generation/ipad-pro-11-in-1st-generation-space-gray.jpg",
+    "connectivity": {
+      "network": "Wi-Fi or 5G",
+      "SIM": "Nano-SIM, eSIM",
+      "bluetooth": "v5.0",
+      "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
+      "radio": "No"
+    },
+    "body": "Aluminum frame, Glass front, Glass back",
+    "display": {
+      "size": "11 inches",
+      "resolution": "Liquid Retina XDR, 2388 x 1668 pixels (265 ppi)",
+      "technology": "ProMotion technology, HDR10, Dolby Vision"
+    },
+    "backCamera": {
+      "resolution": "Dual 12+10 Megapixel",
+      "features": "LiDAR scanner, Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
+      "videoRecording": "ProRes video recording"
+    },
+    "frontCamera": {
+      "resolution": "12 Megapixel",
+      "features": "LiDAR scanner, Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
+      "videoRecording": "ProRes video recording"
+    },
+    "batteryCapacity": "6000 mAh",
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "processor": "Apple M1 chip with Neural Engine",
+    "brand": "Apple"
+  },
+
+  {
+    "name": "OnePlus Nord 2",
+    "release": "July 22, 2021",
+    "color": "Black",
+    "price": "Starting at $399",
+    "url": "https://adminapi.applegadgetsbd.com/storage/media/large/OnePlus-Nord-2-5g-Blue-Haze-3008.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.2, A2DP, LE, aptX HD",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, SBAS",
+      "radio": "No"
+    },
+    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Aluminum frame",
+    "display": {
+      "size": "6.43 inches",
+      "resolution": "Fluid AMOLED, 1080 x 2400 pixels (410 ppi)",
+      "technology": "90Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Triple 50+8+2 Megapixel",
+      "features": "PDAF, OIS, LED flash, HDR, 50 MP wide, 8 MP ultrawide, 2 MP mono",
+      "videoRecording": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "32 Megapixel",
+      "features": "Auto-HDR",
+      "videoRecording": "4K@30fps, 1080p@30/60fps"
+    },
+    "batteryCapacity": "3600 mAh",
+    "ram": "6 GB",
+    "rom": "128 GB",
+    "processor": "MediaTek Dimensity 1200-AI",
+    "brand": "OnePlus"
+  },
+  {
+    "name": "MacBook Air (M2, 2022)",
+    "release": "October 18, 2022",
+    "color": "Silver",
+    "price": "Starting at $999",
+    "url": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-15-inch-8-CPU-10-GPU-Midnight-2449.jpg",
+    "connectivity": {
+      "network": "Wi-Fi 6, Bluetooth 5.0",
+      "SIM": "No",
+      "bluetooth": "v5.0",
+      "GPS": "No",
+      "radio": "No"
+    },
+    "body": "Aluminum unibody, Retina display, Magic Keyboard",
+    "display": {
+      "size": "13.3 inches",
+      "resolution": "Retina, 2560 x 1600 pixels (227 ppi)",
+      "technology": "True Tone, P3 wide color gamut"
+    },
+    "backCamera": {
+      "resolution": "No",
+      "features": "No",
+      "videoRecording": "No"
+    },
+    "frontCamera": {
+      "resolution": "720p HD",
+      "features": "Three-microphone array, FaceTime HD camera",
+      "videoRecording": "1080p@60fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "8 GB",
+    "rom": "256 GB",
+    "processor": "Apple M2 chip",
+    "brand": "Apple"
+  },
+  {
+    "name": "Xiaomi Redmi 9",
+    "release": "June 10, 2020",
+    "color": "Silver",
+    "price": "9,999",
+    "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/Xiaomi-Redmi-9-Power.jpg",
+    "connectivity": {
+      "network": "2G, 3G, 4G",
+      "SIM": "Dual Nano SIM",
+      "bluetooth": "v5.0, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS",
+      "radio": "FM, recording"
+    },
+    "body": "Corning Gorilla Glass 3 front, plastic frame, plastic back",
+    "display": {
+      "size": "6.53 inches",
+      "resolution": "Full HD+ 1080 x 2340 pixels (395 ppi)",
+      "technology": "IPS LCD"
+    },
+    "backCamera": {
+      "resolution": "Quad 13+8+5+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 118º ultrawide, macro, depth & more",
+      "videoRecording": "1080p@30fps"
+    },
+    "frontCamera": {
+      "resolution": "8 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "3600 mAh",
+    "ram": "3 GB",
+    "rom": "32 GB",
+    "processor": "Octa core, up to 2.0 GHz",
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "release": "September 14, 2021",
+    "color": "Silver",
+    "price": "Starting at $999",
+    "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/1-4-500x500.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM and eSIM)",
+      "bluetooth": "v5.0, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+      "radio": "No"
+    },
+    "body": "Ceramic Shield front, Textured matte glass back, Stainless steel frame",
+    "display": {
+      "size": "6.1 inches",
+      "resolution": "Super Retina XDR, 2532 x 1170 pixels (460 ppi)",
+      "technology": "ProMotion technology, HDR10, Dolby Vision"
+    },
+    "backCamera": {
+      "resolution": "Triple 12+12+12 Megapixel",
+      "features": "Night mode, Deep Fusion, Smart HDR 4, 4K Dolby Vision HDR recording",
+      "videoRecording": "ProRAW, ProRes video recording"
+    },
+    "frontCamera": {
+      "resolution": "12 Megapixel",
+      "features": "Night mode, Deep Fusion, Smart HDR 4, 4K Dolby Vision HDR recording",
+      "videoRecording": "ProRAW, ProRes video recording"
+    },
+    "batteryCapacity": "3000 mAh",
+    "ram": "6 GB",
+    "rom": "256 GB",
+    "processor": "A15 Bionic chip with Neural Engine",
+    "brand": "Apple"
+  },
+
+  {
+    "name": "Oppo Reno6 Pro 5G",
+    "release": "May 27, 2021",
+    "color": "Cloudy White",
+    "price": "Starting at $799",
+    "url": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6-pro-5g-oversea/navigation/Homepage-header2-artic-blue-427-x-600.png",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.2, A2DP, LE, aptX HD",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+      "radio": "No"
+    },
+    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Aluminum frame",
+    "display": {
+      "size": "6.55 inches",
+      "resolution": "AMOLED, 1080 x 2400 pixels (402 ppi)",
+      "technology": "90Hz refresh rate, HDR10+, 500 nits (HBM), 800 nits (peak)"
+    },
+    "backCamera": {
+      "resolution": "Quad 64+8+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "32 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "4500 mAh",
+    "ram": "12 GB",
+    "rom": "256 GB",
+    "processor": "MediaTek Dimensity 1200",
+    "brand": "Oppo"
+  },
+
+  {
+    "name": "Realme GT",
+    "release": "March 4, 2021",
+    "color": "Cloudy White",
+    "price": "Starting at $399",
+    "url": "https://www.argallerybd.com/wp-content/uploads/2023/02/realme-gt-master-8gb.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.2, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+      "radio": "No"
+    },
+    "body": "Glass front (Gorilla Glass 5), Glass back (Gorilla Glass 5), Aluminum frame",
+    "display": {
+      "size": "6.43 inches",
+      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
+      "technology": "120Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Triple 64+8+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "16 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30/120fps"
+    },
+    "batteryCapacity": "4500 mAh",
+    "ram": "12 GB",
+    "rom": "256 GB",
+    "processor": "Qualcomm Snapdragon 870",
+    "brand": "Realme"
   },
   {
     "name": "AirPods Pro",
@@ -273,18 +523,18 @@
       "features": "No",
       "videoRecording": "No"
     },
-    "batteryCapacity": "Built-in rechargeable lithium-ion battery",
-    "ram": "No",
-    "rom": "No",
+    "batteryCapacity": "5600 mAh",
+    "ram": "12 GB",
+    "rom": "256 GB",
     "processor": "No",
     "brand": "Apple"
   },
   {
     "name": "Oppo Find X3 Pro",
     "release": "March 11, 2021",
-    "color": "Gloss Black",
+    "color": "White",
     "price": "Starting at $1,199",
-    "url": "https://www.oppo.com/global/find-x3-pro/",
+    "url": "https://unboxingtech.com.bd/public/uploads/all/EAYa8dpkoAXkNdm9ZJe3PIvNtB8v2BPKkrpYa9xv.jpg",
     "connectivity": {
       "network": "5G",
       "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
@@ -308,298 +558,18 @@
       "features": "HDR",
       "videoRecording": "4K@30/60fps, 1080p@30fps"
     },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
+    "batteryCapacity": "4500 mAh",
     "ram": "12 GB",
     "rom": "256 GB",
     "processor": "Qualcomm Snapdragon 888",
     "brand": "Oppo"
-  },
-  {
-    "name": "Oppo Reno6 Pro 5G",
-    "release": "May 27, 2021",
-    "color": "Aurora",
-    "price": "Starting at $799",
-    "url": "https://www.oppo.com/global/reno6-pro-5g/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.2, A2DP, LE, aptX HD",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Aluminum frame",
-    "display": {
-      "size": "6.55 inches",
-      "resolution": "AMOLED, 1080 x 2400 pixels (402 ppi)",
-      "technology": "90Hz refresh rate, HDR10+, 500 nits (HBM), 800 nits (peak)"
-    },
-    "backCamera": {
-      "resolution": "Quad 64+8+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "32 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "12 GB",
-    "rom": "256 GB",
-    "processor": "MediaTek Dimensity 1200",
-    "brand": "Oppo"
-  },
-  {
-    "name": "Oppo A74 5G",
-    "release": "April 2021",
-    "color": "Fluid Black",
-    "price": "Starting at $299",
-    "url": "https://www.oppo.com/global/smartphones/series-a/a74/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.1, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 3), Plastic back, Plastic frame",
-    "display": {
-      "size": "6.5 inches",
-      "resolution": "IPS LCD, 1080 x 2400 pixels (405 ppi)",
-      "technology": "90Hz refresh rate"
-    },
-    "backCamera": {
-      "resolution": "Triple 48+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 48 MP wide, 2 MP macro, 2 MP depth",
-      "videoRecording": "1080p@30/60/120fps"
-    },
-    "frontCamera": {
-      "resolution": "8 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 5000 mAh (non-removable)",
-    "ram": "6 GB",
-    "rom": "128 GB",
-    "processor": "Qualcomm Snapdragon 480",
-    "brand": "Oppo"
-  },
-  {
-    "name": "Oppo F19 Pro+ 5G",
-    "release": "March 8, 2021",
-    "color": "Fluid Black",
-    "price": "Starting at $449",
-    "url": "https://www.oppo.com/global/smartphones/series-f/f19-pro-plus-5g/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.1, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 5), Plastic back, Plastic frame",
-    "display": {
-      "size": "6.43 inches",
-      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
-      "technology": "60Hz refresh rate"
-    },
-    "backCamera": {
-      "resolution": "Quad 48+8+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 48 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/120fps"
-    },
-    "frontCamera": {
-      "resolution": "16 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 4310 mAh (non-removable)",
-    "ram": "8 GB",
-    "rom": "128 GB",
-    "processor": "MediaTek Dimensity 800U",
-    "brand": "Oppo"
-  },
-  {
-    "name": "Realme GT",
-    "release": "March 4, 2021",
-    "color": "Dashing Blue",
-    "price": "Starting at $399",
-    "url": "https://www.realme.com/global/realme-gt/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.2, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
-      "radio": "No"
-    },
-    "body": "Glass front (Gorilla Glass 5), Glass back (Gorilla Glass 5), Aluminum frame",
-    "display": {
-      "size": "6.43 inches",
-      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
-      "technology": "120Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Triple 64+8+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "16 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30/120fps"
-    },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "8 / 12 GB",
-    "rom": "128 / 256 GB",
-    "processor": "Qualcomm Snapdragon 870",
-    "brand": "Realme"
-  },
-  {
-    "name": "Realme Narzo 30 Pro 5G",
-    "release": "February 24, 2021",
-    "color": "Sword Black",
-    "price": "Starting at $249",
-    "url": "https://www.realme.com/global/narzo-30-pro-5g/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.1, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS",
-      "radio": "FM, recording"
-    },
-    "body": "Plastic frame, Plastic back",
-    "display": {
-      "size": "6.5 inches",
-      "resolution": "IPS LCD, 1080 x 2400 pixels (405 ppi)",
-      "technology": "90Hz refresh rate, 580 nits (HBM), 90Hz refresh rate"
-    },
-    "backCamera": {
-      "resolution": "Triple 48+8+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 48 MP wide, 8 MP ultrawide, 2 MP macro",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "16 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 5000 mAh (non-removable)",
-    "ram": "6 / 8 GB",
-    "rom": "64 / 128 GB",
-    "processor": "MediaTek Dimensity 800U",
-    "brand": "Realme"
-  },
-  {
-    "name": "Realme 8 Pro",
-    "release": "March 24, 2021",
-    "color": "Infinite Blue",
-    "price": "Starting at $279",
-    "url": "https://www.realme.com/global/realme-8-pro/",
-    "connectivity": {
-      "network": "4G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.1, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS",
-      "radio": "No"
-    },
-    "body": "Plastic frame, Plastic back",
-    "display": {
-      "size": "6.4 inches",
-      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
-      "technology": "60Hz refresh rate, 90.8% screen-to-body ratio"
-    },
-    "backCamera": {
-      "resolution": "Quad 108+8+2+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 108 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "16 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30/120fps"
-    },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "6 / 8 GB",
-    "rom": "128 GB",
-    "processor": "Qualcomm Snapdragon 720G",
-    "brand": "Realme"
-  },
-  {
-    "name": "Vivo X60 Pro+",
-    "release": "January 21, 2021",
-    "color": "Emperor Blue",
-    "price": "Starting at $799",
-    "url": "https://www.vivo.com/global/phone/vivo-X60-Pro-Plus",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.2, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 6), Glass back (Corning Gorilla Glass 6), Aluminum frame",
-    "display": {
-      "size": "6.56 inches",
-      "resolution": "AMOLED, 1080 x 2376 pixels (398 ppi)",
-      "technology": "120Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Quad 50+48+32+8 Megapixel",
-      "features": "PDAF, Gimbal stabilization, LED flash, HDR, 50 MP wide, 48 MP periscope telephoto, 32 MP ultrawide, 8 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/60fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "32 Megapixel",
-      "features": "HDR",
-      "videoRecording": "4K@30fps, 1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 4200 mAh (non-removable)",
-    "ram": "8 / 12 GB",
-    "rom": "128 / 256 GB",
-    "processor": "Qualcomm Snapdragon 888",
-    "brand": "Vivo"
-  },
-  {
-    "name": "Vivo V21",
-    "release": "April 29, 2021",
-    "color": "Dusk Blue",
-    "price": "Starting at $349",
-    "url": "https://www.vivo.com/global/phone/vivo-V21/",
-    "connectivity": {
-      "network": "4G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.1, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Plastic frame",
-    "display": {
-      "size": "6.44 inches",
-      "resolution": "AMOLED, 1080 x 2404 pixels (409 ppi)",
-      "technology": "90Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Triple 64+8+2 Megapixel",
-      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "44 Megapixel",
-      "features": "Dual-LED dual-tone flash, HDR",
-      "videoRecording": "4K@30fps, 1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 4000 mAh (non-removable)",
-    "ram": "8 GB",
-    "rom": "128 GB",
-    "processor": "MediaTek Dimensity 800U",
-    "brand": "Vivo"
   },
   {
     "name": "Vivo Y73",
     "release": "June 10, 2021",
-    "color": "Diamond Flare",
+    "color": "White",
     "price": "Starting at $279",
-    "url": "https://www.vivo.com/global/phone/vivo-Y73/",
+    "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Vivo-Y73.jpg",
     "connectivity": {
       "network": "4G",
       "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
@@ -623,228 +593,54 @@
       "features": "HDR",
       "videoRecording": "1080p@30fps"
     },
-    "batteryCapacity": "Li-Po 4000 mAh (non-removable)",
+    "batteryCapacity": "4000 mAh",
     "ram": "8 GB",
     "rom": "128 GB",
     "processor": "MediaTek Helio G95",
     "brand": "Vivo"
   },
+
   {
-    "name": "Samsung Galaxy S21 Ultra",
-    "release": "January 29, 2021",
-    "color": "Phantom Black",
-    "price": "Starting at $1,199",
-    "url": "https://www.samsung.com/global/galaxy/galaxy-s21-ultra-5g/",
+    "name": "Vivo X60 Pro+",
+    "release": "January 21, 2021",
+    "color": "Black",
+    "price": "Starting at $799",
+    "url": "https://www.dxomark.cn/wp-content/uploads/medias/post-84395/Vivo-X60-Pro-Plus-featured-image-packshot-review.jpg",
     "connectivity": {
       "network": "5G",
-      "SIM": "Single SIM (Nano-SIM and/or eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
       "bluetooth": "v5.2, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
       "radio": "No"
     },
-    "body": "Glass front (Gorilla Glass Victus), Glass back (Gorilla Glass Victus), Aluminum frame",
+    "body": "Glass front (Corning Gorilla Glass 6), Glass back (Corning Gorilla Glass 6), Aluminum frame",
     "display": {
-      "size": "6.8 inches",
-      "resolution": "Dynamic AMOLED 2X, 1440 x 3200 pixels (515 ppi)",
-      "technology": "120Hz refresh rate, HDR10+, 1500 nits (HBM), 1800 nits (peak)"
-    },
-    "backCamera": {
-      "resolution": "Quad 108+12+10+10 Megapixel",
-      "features": "PDAF, Laser AF, Space Zoom (100x), LED flash, HDR, 108 MP wide, 12 MP periscope telephoto, 10 MP periscope telephoto, 10 MP ultrawide",
-      "videoRecording": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS & OIS"
-    },
-    "frontCamera": {
-      "resolution": "40 Megapixel",
-      "features": "PDAF, Dual video call, Auto-HDR",
-      "videoRecording": "4K@30/60fps, 1080p@30fps"
-    },
-    "batteryCapacity": "Li-Ion 5000 mAh (non-removable)",
-    "ram": "12 / 16 GB",
-    "rom": "128 / 256 / 512 GB",
-    "processor": "Exynos 2100 (Global) - Qualcomm Snapdragon 888 (USA/China)",
-    "brand": "Samsung"
-  },
-  {
-    "name": "Samsung Galaxy Tab S7+",
-    "release": "August 5, 2020",
-    "color": "Mystic Black",
-    "price": "Starting at $849",
-    "url": "https://www.samsung.com/global/galaxy/galaxy-tab-s7-plus/",
-    "connectivity": {
-      "network": "4G or 5G",
-      "SIM": "Nano-SIM",
-      "bluetooth": "v5.0, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
-      "radio": "No"
-    },
-    "body": "Glass front (Gorilla Glass 6), Glass back (Gorilla Glass 6), Aluminum frame",
-    "display": {
-      "size": "12.4 inches",
-      "resolution": "Super AMOLED, 1752 x 2800 pixels (287 ppi)",
+      "size": "6.56 inches",
+      "resolution": "AMOLED, 1080 x 2376 pixels (398 ppi)",
       "technology": "120Hz refresh rate, HDR10+"
     },
     "backCamera": {
-      "resolution": "Dual 13+5 Megapixel",
-      "features": "PDAF, LED flash, HDR, 13 MP wide, 5 MP ultrawide",
-      "videoRecording": "4K@30fps, 1080p@30fps, 720p@960fps, HDR, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "8 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 10090 mAh (non-removable)",
-    "ram": "6 / 8 GB",
-    "rom": "128 / 256 GB",
-    "processor": "Qualcomm Snapdragon 865+",
-    "brand": "Samsung"
-  },
-  {
-    "name": "Samsung Galaxy A52",
-    "release": "March 26, 2021",
-    "color": "Awesome Black",
-    "price": "Starting at $349",
-    "url": "https://www.samsung.com/global/galaxy/galaxy-a52-5g/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.0, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
-      "radio": "FM, recording"
-    },
-    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Plastic frame)",
-    "display": {
-      "size": "6.5 inches",
-      "resolution": "Super AMOLED, 1080 x 2400 pixels (407 ppi)",
-      "technology": "90Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Quad 64+12+5+5 Megapixel",
-      "features": "PDAF, LED flash, HDR, 64 MP wide, 12 MP ultrawide, 5 MP macro, 5 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/120fps, gyro-EIS"
+      "resolution": "Quad 50+48+32+8 Megapixel",
+      "features": "PDAF, Gimbal stabilization, LED flash, HDR, 50 MP wide, 48 MP periscope telephoto, 32 MP ultrawide, 8 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/60fps, gyro-EIS"
     },
     "frontCamera": {
       "resolution": "32 Megapixel",
       "features": "HDR",
       "videoRecording": "4K@30fps, 1080p@30fps"
     },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "4 / 6 / 8 GB",
-    "rom": "128 / 256 GB",
-    "processor": "Qualcomm Snapdragon 720G",
-    "brand": "Samsung"
-  },
-  {
-    "name": "Samsung Galaxy Z Fold 3",
-    "release": "August 11, 2021",
-    "color": "Phantom Black",
-    "price": "Starting at $1,799",
-    "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold3-5g/",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Nano-SIM or eSIM",
-      "bluetooth": "v5.2, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
-      "radio": "No"
-    },
-    "body": "Glass front (UTG), Glass back (UTG), Aluminum frame",
-    "display": {
-      "size": "7.6 inches (unfolded)",
-      "resolution": "AMOLED, 1768 x 2208 pixels (374 ppi)",
-      "technology": "120Hz refresh rate, HDR10+, 1200 nits (peak)"
-    },
-    "backCamera": {
-      "resolution": "Triple 12+12+12 Megapixel",
-      "features": "PDAF, LED flash, HDR, 12 MP wide, 12 MP periscope telephoto, 12 MP ultrawide",
-      "videoRecording": "4K@60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "Under display camera (4 MP)",
-      "features": "HDR",
-      "videoRecording": "4K@30fps, 1080p@30/60fps"
-    },
-    "batteryCapacity": "Li-Po 4400 mAh (non-removable)",
+    "batteryCapacity": "4500 mAh",
     "ram": "12 GB",
-    "rom": "256 / 512 GB",
+    "rom": "256 GB",
     "processor": "Qualcomm Snapdragon 888",
-    "brand": "Samsung"
-  },
-  {
-    "name": "Google Pixel 6 Pro",
-    "release": "October 19, 2021",
-    "color": "Cloudy White",
-    "price": "Starting at $899",
-    "url": "https://store.google.com/us/product/pixel_6_pro",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Nano-SIM and eSIM",
-      "bluetooth": "v5.2, A2DP, LE",
-      "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
-      "radio": "No"
-    },
-    "body": "Corning Gorilla Glass Victus front, Corning Gorilla Glass 6 back, Aluminum frame",
-    "display": {
-      "size": "6.71 inches",
-      "resolution": "LTPO OLED, 1440 x 3120 pixels (512 ppi)",
-      "technology": "120Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Triple 50+12+48 Megapixel",
-      "features": "PDAF, Laser AF, LED flash, HDR, 50 MP wide, 12 MP periscope telephoto, 48 MP ultrawide",
-      "videoRecording": "4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "11.1 Megapixel",
-      "features": "Auto-HDR",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps"
-    },
-    "batteryCapacity": "Li-Po 5003 mAh (non-removable)",
-    "ram": "12 GB",
-    "rom": "128 / 256 GB",
-    "processor": "Google Tensor",
-    "brand": "Google"
-  },
-  {
-    "name": "Nokia 8.3 5G",
-    "release": "September 22, 2020",
-    "color": "Polar Night",
-    "price": "Starting at $699",
-    "url": "https://www.nokia.com/phones/en_us/nokia-8-3-5g",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Nano-SIM, Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.0, A2DP, aptX HD, LE",
-      "GPS": "A-GPS, GLONASS, BDS",
-      "radio": "FM radio"
-    },
-    "body": "Glass front (Gorilla Glass 3), Glass back (Gorilla Glass 3), Aluminum frame",
-    "display": {
-      "size": "6.81 inches",
-      "resolution": "IPS LCD, 1080 x 2400 pixels (386 ppi)",
-      "technology": "HDR10"
-    },
-    "backCamera": {
-      "resolution": "Quad 64+12+2+2 Megapixel",
-      "features": "Zeiss optics, LED flash, HDR, 64 MP wide, 12 MP ultrawide, 2 MP macro, 2 MP depth",
-      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "24 Megapixel",
-      "features": "HDR",
-      "videoRecording": "1080p@30fps"
-    },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "6 / 8 GB",
-    "rom": "64 / 128 GB",
-    "processor": "Qualcomm Snapdragon 765G",
-    "brand": "Nokia"
+    "brand": "Vivo"
   },
   {
     "name": "Nokia 5.4",
     "release": "December 15, 2020",
-    "color": "Dusk",
+    "color": "Silver",
     "price": "Starting at $199",
-    "url": "https://www.nokia.com/phones/en_us/nokia-5-4",
+    "url": "https://images.indianexpress.com/2020/12/Nokia-5.4-_Emotional.jpg",
     "connectivity": {
       "network": "4G",
       "SIM": "Nano-SIM, Dual SIM (Nano-SIM, dual stand-by)",
@@ -868,18 +664,301 @@
       "features": "HDR",
       "videoRecording": "1080p@30fps"
     },
-    "batteryCapacity": "Li-Po 4000 mAh (non-removable)",
-    "ram": "4 / 6 GB",
+    "batteryCapacity": "4000 mAh",
+    "ram": "4 GB",
     "rom": "64 GB",
     "processor": "Qualcomm Snapdragon 662",
     "brand": "Nokia"
   },
   {
+    "name": "Vivo V21",
+    "release": "April 29, 2021",
+    "color": "Silver",
+    "price": "Starting at $349",
+    "url": "https://i.gadgets360cdn.com/large/vivo_v21_5g_image_1_1619682043347.jpg",
+    "connectivity": {
+      "network": "4G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.1, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS",
+      "radio": "No"
+    },
+    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Plastic frame",
+    "display": {
+      "size": "6.44 inches",
+      "resolution": "AMOLED, 1080 x 2404 pixels (409 ppi)",
+      "technology": "90Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Triple 64+8+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 64 MP wide, 8 MP ultrawide, 2 MP macro",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "44 Megapixel",
+      "features": "Dual-LED dual-tone flash, HDR",
+      "videoRecording": "4K@30fps, 1080p@30fps"
+    },
+    "batteryCapacity": "6000 mAh ",
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "processor": "MediaTek Dimensity 800U",
+    "brand": "Vivo"
+  },
+
+  {
+    "name": "Samsung Galaxy Tab S7+",
+    "release": "August 5, 2020",
+    "color": "Cloudy White",
+    "price": "Starting at $849",
+    "url": "https://fdn.gsmarena.com/imgroot/news/20/07/galaxy-tab-s7-s7plus-specs/-727/gsmarena_009.jpg",
+    "connectivity": {
+      "network": "4G or 5G",
+      "SIM": "Nano-SIM",
+      "bluetooth": "v5.0, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "No"
+    },
+    "body": "Glass front (Gorilla Glass 6), Glass back (Gorilla Glass 6), Aluminum frame",
+    "display": {
+      "size": "12.4 inches",
+      "resolution": "Super AMOLED, 1752 x 2800 pixels (287 ppi)",
+      "technology": "120Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Dual 13+5 Megapixel",
+      "features": "PDAF, LED flash, HDR, 13 MP wide, 5 MP ultrawide",
+      "videoRecording": "4K@30fps, 1080p@30fps, 720p@960fps, HDR, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "8 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "8 GB",
+    "rom": "256 GB",
+    "processor": "Qualcomm Snapdragon 865+",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Nokia 8.3 5G",
+    "release": "September 22, 2020",
+    "color": "Polar Night",
+    "price": "Starting at $699",
+    "url": "https://www.mobiledokan.com/wp-content/uploads/2020/03/Nokia-8.3.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Nano-SIM, Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.0, A2DP, aptX HD, LE",
+      "GPS": "A-GPS, GLONASS, BDS",
+      "radio": "FM radio"
+    },
+    "body": "Glass front (Gorilla Glass 3), Glass back (Gorilla Glass 3), Aluminum frame",
+    "display": {
+      "size": "6.81 inches",
+      "resolution": "IPS LCD, 1080 x 2400 pixels (386 ppi)",
+      "technology": "HDR10"
+    },
+    "backCamera": {
+      "resolution": "Quad 64+12+2+2 Megapixel",
+      "features": "Zeiss optics, LED flash, HDR, 64 MP wide, 12 MP ultrawide, 2 MP macro, 2 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "24 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "12 GB",
+    "rom": "228 GB",
+    "processor": "Qualcomm Snapdragon 765G",
+    "brand": "Nokia"
+  },
+
+  {
+    "name": "Realme 8 Pro",
+    "release": "March 24, 2021",
+    "color": "Polar Night",
+    "price": "Starting at $279",
+    "url": "https://fdn.gsmarena.com/imgroot/news/21/03/realme-8-8pro-announced/-1220x526/gsmarena_000.jpg",
+    "connectivity": {
+      "network": "4G",
+      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.1, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS",
+      "radio": "No"
+    },
+    "body": "Plastic frame, Plastic back",
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "Super AMOLED, 1080 x 2400 pixels (409 ppi)",
+      "technology": "60Hz refresh rate, 90.8% screen-to-body ratio"
+    },
+    "backCamera": {
+      "resolution": "Quad 108+8+2+2 Megapixel",
+      "features": "PDAF, LED flash, HDR, 108 MP wide, 8 MP ultrawide, 2 MP macro, 2 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "16 Megapixel",
+      "features": "HDR",
+      "videoRecording": "1080p@30/120fps"
+    },
+    "batteryCapacity": "6000 mAh",
+    "ram": "6 GB",
+    "rom": "128 GB",
+    "processor": "Qualcomm Snapdragon 720G",
+    "brand": "Realme"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 3",
+    "release": "August 11, 2021",
+    "color": "Phantom Black",
+    "price": "Starting at $1,799",
+    "url": "https://cdn.ome.lt/t2afOxeiGxIPBVWNoIxaR9lu6mw=/770x0/smart/uploads/conteudo/fotos/Samsung_Z_Flip_3.png",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Nano-SIM or eSIM",
+      "bluetooth": "v5.2, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "No"
+    },
+    "body": "Glass front (UTG), Glass back (UTG), Aluminum frame",
+    "display": {
+      "size": "7.6 inches (unfolded)",
+      "resolution": "AMOLED, 1768 x 2208 pixels (374 ppi)",
+      "technology": "120Hz refresh rate, HDR10+, 1200 nits (peak)"
+    },
+    "backCamera": {
+      "resolution": "Triple 12+12+12 Megapixel",
+      "features": "PDAF, LED flash, HDR, 12 MP wide, 12 MP periscope telephoto, 12 MP ultrawide",
+      "videoRecording": "4K@60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "Under display camera (4 MP)",
+      "features": "HDR",
+      "videoRecording": "4K@30fps, 1080p@30/60fps"
+    },
+    "batteryCapacity": "3600 mAh",
+    "ram": "12 GB",
+    "rom": "512 GB",
+    "processor": "Qualcomm Snapdragon 888",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy S21 Ultra",
+    "release": "January 29, 2021",
+    "color": "Phantom Black",
+    "price": "Starting at $1,199",
+    "url": "https://adminapi.applegadgetsbd.com/storage/media/large/2103-42632.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Single SIM (Nano-SIM and/or eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.2, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "No"
+    },
+    "body": "Glass front (Gorilla Glass Victus), Glass back (Gorilla Glass Victus), Aluminum frame",
+    "display": {
+      "size": "6.8 inches",
+      "resolution": "Dynamic AMOLED 2X, 1440 x 3200 pixels (515 ppi)",
+      "technology": "120Hz refresh rate, HDR10+, 1500 nits (HBM), 1800 nits (peak)"
+    },
+    "backCamera": {
+      "resolution": "Quad 108+12+10+10 Megapixel",
+      "features": "PDAF, Laser AF, Space Zoom (100x), LED flash, HDR, 108 MP wide, 12 MP periscope telephoto, 10 MP periscope telephoto, 10 MP ultrawide",
+      "videoRecording": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS & OIS"
+    },
+    "frontCamera": {
+      "resolution": "40 Megapixel",
+      "features": "PDAF, Dual video call, Auto-HDR",
+      "videoRecording": "4K@30/60fps, 1080p@30fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "16 GB",
+    "rom": "512 GB",
+    "processor": "Exynos 2100 (Global) - Qualcomm Snapdragon 888 (USA/China)",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Google Pixel 6 Pro",
+    "release": "October 19, 2021",
+    "color": "Cloudy White",
+    "price": "Starting at $899",
+    "url": "https://gadgetandphone.com/public/uploads/all/MP1PdW5Mqp8Mcl44GJODGy2wFxyaRAPuLBjlrs1d.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Nano-SIM and eSIM",
+      "bluetooth": "v5.2, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
+      "radio": "No"
+    },
+    "body": "Corning Gorilla Glass Victus front, Corning Gorilla Glass 6 back, Aluminum frame",
+    "display": {
+      "size": "6.71 inches",
+      "resolution": "LTPO OLED, 1440 x 3120 pixels (512 ppi)",
+      "technology": "120Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Triple 50+12+48 Megapixel",
+      "features": "PDAF, Laser AF, LED flash, HDR, 50 MP wide, 12 MP periscope telephoto, 48 MP ultrawide",
+      "videoRecording": "4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "11.1 Megapixel",
+      "features": "Auto-HDR",
+      "videoRecording": "4K@30fps, 1080p@30/60/120fps"
+    },
+    "batteryCapacity": "5000 mAh",
+    "ram": "12 GB",
+    "rom": "256 GB",
+    "processor": "Google Tensor",
+    "brand": "Google"
+  },
+  {
+    "name": "Samsung Galaxy A52",
+    "release": "March 26, 2021",
+    "color": "Cloudy White",
+    "price": "Starting at $349",
+    "url": "https://img.global.news.samsung.com/global/wp-content/uploads/2021/03/Galaxy-A-Unpacked_main1.jpg",
+    "connectivity": {
+      "network": "5G",
+      "SIM": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+      "bluetooth": "v5.0, A2DP, LE",
+      "GPS": "A-GPS, GLONASS, BDS, GALILEO",
+      "radio": "FM, recording"
+    },
+    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Plastic frame)",
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "Super AMOLED, 1080 x 2400 pixels (407 ppi)",
+      "technology": "90Hz refresh rate, HDR10+"
+    },
+    "backCamera": {
+      "resolution": "Quad 64+12+5+5 Megapixel",
+      "features": "PDAF, LED flash, HDR, 64 MP wide, 12 MP ultrawide, 5 MP macro, 5 MP depth",
+      "videoRecording": "4K@30fps, 1080p@30/120fps, gyro-EIS"
+    },
+    "frontCamera": {
+      "resolution": "32 Megapixel",
+      "features": "HDR",
+      "videoRecording": "4K@30fps, 1080p@30fps"
+    },
+    "batteryCapacity": "4500 mAh",
+    "ram": "4 GB",
+    "rom": "256 GB",
+    "processor": "Qualcomm Snapdragon 720G",
+    "brand": "Samsung"
+  },
+
+  {
     "name": "OnePlus 9 Pro",
     "release": "March 23, 2021",
-    "color": "Morning Mist",
+    "color": "Cloudy White",
     "price": "Starting at $969",
-    "url": "https://www.oneplus.com/oneplus-9-pro",
+    "url": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/compare/in/compare/9-pro/9pPineGreen.png",
     "connectivity": {
       "network": "5G",
       "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
@@ -903,45 +982,10 @@
       "features": "Auto-HDR",
       "videoRecording": "4K@30/60fps, 1080p@30/60fps"
     },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "8 / 12 GB",
-    "rom": "128 / 256 GB",
+    "batteryCapacity": "4500 mAh",
+    "ram": "12 GB",
+    "rom": "256 GB",
     "processor": "Qualcomm Snapdragon 888",
-    "brand": "OnePlus"
-  },
-  {
-    "name": "OnePlus Nord 2",
-    "release": "July 22, 2021",
-    "color": "Blue Haze",
-    "price": "Starting at $399",
-    "url": "https://www.oneplus.com/nord-2",
-    "connectivity": {
-      "network": "5G",
-      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-      "bluetooth": "v5.2, A2DP, LE, aptX HD",
-      "GPS": "A-GPS, GLONASS, BDS, GALILEO, SBAS",
-      "radio": "No"
-    },
-    "body": "Glass front (Corning Gorilla Glass 5), Glass back (Corning Gorilla Glass 5), Aluminum frame",
-    "display": {
-      "size": "6.43 inches",
-      "resolution": "Fluid AMOLED, 1080 x 2400 pixels (410 ppi)",
-      "technology": "90Hz refresh rate, HDR10+"
-    },
-    "backCamera": {
-      "resolution": "Triple 50+8+2 Megapixel",
-      "features": "PDAF, OIS, LED flash, HDR, 50 MP wide, 8 MP ultrawide, 2 MP mono",
-      "videoRecording": "4K@30fps, 1080p@30/60fps, gyro-EIS"
-    },
-    "frontCamera": {
-      "resolution": "32 Megapixel",
-      "features": "Auto-HDR",
-      "videoRecording": "4K@30fps, 1080p@30/60fps"
-    },
-    "batteryCapacity": "Li-Po 4500 mAh (non-removable)",
-    "ram": "6 / 8 / 12 GB",
-    "rom": "128 / 256 GB",
-    "processor": "MediaTek Dimensity 1200-AI",
     "brand": "OnePlus"
   }
 ]

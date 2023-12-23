@@ -56,7 +56,33 @@ const getAllMobileFromDB = async (
   const mobile = await Mobile.find(whereConditions).skip(skip).limit(limit);
   const total = await Mobile.countDocuments(whereConditions);
   const BrandCategory = await Mobile.distinct("brand");
+  const ramCategory = await Mobile.distinct("ram");
+  const romCategory = await Mobile.distinct("rom");
+  const colorCategory = await Mobile.distinct("color");
+  const batteryCategory = await Mobile.distinct("batteryCapacity");
   const brand = BrandCategory.map((title: string) => {
+    return {
+      title,
+    };
+  });
+  const ram = ramCategory.map((title: string) => {
+    return {
+      title,
+    };
+  });
+
+  const rom = romCategory.map((title: string) => {
+    return {
+      title,
+    };
+  });
+
+  const color = colorCategory.map((title: string) => {
+    return {
+      title,
+    };
+  });
+  const battery = batteryCategory.map((title: string) => {
     return {
       title,
     };
@@ -71,6 +97,10 @@ const getAllMobileFromDB = async (
     data: {
       mobile,
       brand,
+      ram,
+      rom,
+      color,
+      battery,
     },
   };
 };
